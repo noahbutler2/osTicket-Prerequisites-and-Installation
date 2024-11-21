@@ -31,6 +31,11 @@ Welcome to my first in-depth IT tutorial! To begin we will have to create a Virt
 </p>
 <p>
 <img src="https://i.imgur.com/x7mXrfi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+
+</p>
+
+<p>
+<img src="https://i.imgur.com/o0bv174.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 
 <br />
