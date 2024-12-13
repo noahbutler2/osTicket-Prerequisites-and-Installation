@@ -87,7 +87,7 @@ then double click on PHP manager. Click on "Disable or enable an extension" Enab
 <p>
 </p>
 <p>
-Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
+Go back into c:\inetpub\wwwroot\osTicket\include\ost-sampleconfig.php and rename the file to c:\inetpub\wwwroot\osTicket\include\ost-config.php
 Assign permissions to ost-config.php Disable inheritance->Removeall
 New Permissions->Everyone->all
 </p>
