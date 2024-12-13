@@ -79,7 +79,7 @@ Open IIS Manager and restart the server. Once inside IIS manager go to Sites->De
 <p>
 </p>
 <p>
-Go back into IIS manager and enable some extensions. To do this you have to go to Sites->Default->osTicket
+Then go back into IIS manager and enable some extensions. To do this you have to go to Sites->Default->osTicket
 Then double click on PHP manager. Click on "Disable or enable an extension" Enable "php_intl.dll" & "php_opcache.dll" then refresh the osTicket webserver and obsereve the changes "Intl Extension" should now be enabled. 
 </p>
 <img src="https://i.imgur.com/APZgUTT.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
