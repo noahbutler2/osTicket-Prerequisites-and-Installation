@@ -64,7 +64,7 @@ Once you have installed Web Installer Platform, open it. From inside the applica
 <p>
 </p>
 <p>
-Now we will be downloading osTicket. Then extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket
+Now we will be downloading osTicket. Extract and copy the "upload" folder into c:\inetpub\wwwroot. Afterwards rename the folder to osTicket.
 </P>
 <img src="https://i.imgur.com/TUGiSKi.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
